@@ -2,7 +2,9 @@ import subprocess
 from time import sleep
 
 print("""
-
+      
+Copyright (c) m3jzhmap developer
+      
 My Social Media Accounts
 
 instagram.com/alm3jzh

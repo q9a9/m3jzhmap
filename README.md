@@ -21,3 +21,7 @@ Windows Users:
  	2- install sqlmap 
   	3- install The Tool
    	4- pip install -r Requirements.txt
+
+
+
+# Most In Windows Version Have A Problem's Use Linux Version It's Best :L

@@ -6,12 +6,7 @@ Linux Users:
 $ git clone https://github.com/q9a9/m3jzhmap.git && cd m3jzhmap && pip install -r Requirements.txt
 
 
-$ git clone https://github.com/q9a9/m3jzhmap.git && cd m3jzhmap && pip install -r Requirements.txt && python m3jzhmap.py 
- 		
-   
-   # This Command To Quickly Lunch The Tool
-  
-   ENJOY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 
 
